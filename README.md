@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arnaud Viegas 👋</h1>
+<h1 align="center">Hi, I'm Arnaud Viegas </h1>
 <h3 align="center">Software Engineer · Fullstack, Data & AI Infrastructure · MSc CS (Big Data Engineering) @ VU Amsterdam</h3>
 
 <p align="center">
@@ -10,17 +10,17 @@
 
 ---
 
-### 🚀 About me
+### About me
 
-- 🎓 MSc Computer Science (Big Data Engineering) at **Vrije Universiteit Amsterdam** (2026 – 2028)
-- 🔬 Research Assistant at VU Amsterdam, working on **TraceMirror**
-- 🏛️ BSc Computer Engineering, **Stony Brook University** (2025)
-- 💡 Interested in backend systems, data engineering and forward-deployed engineering
-- 📫 Open to **Summer 2027 internships** and software engineering roles in Amsterdam / the EU
+- MSc Computer Science (Big Data Engineering) at **Vrije Universiteit Amsterdam** (2026 – 2028)
+- Research Assistant at VU Amsterdam, working on **TraceMirror**
+- BSc Computer Engineering, **Stony Brook University** (2025)
+- Interested in Full stack, data engineering and forward-deployed engineering
+- Open to **Summer 2027 internships** and software engineering roles in the EU
 
 ---
 
-### 🛠️ Tech stack
+### Tech stack
 
 <table>
   <tr>
@@ -84,17 +84,19 @@
 
 ---
 
-### 📌 Featured work
+###  Featured work
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [**TraceMirror**](https://github.com/ArnaudViegas21/REPO) | Research project at VU Amsterdam | _add_ |
-| [**Dynamic Crowd Steering**](https://github.com/ArnaudViegas21/REPO) | Crowd & safety management feature (Digitalization & Sustainability, VU) | _add_ |
-| [**Insurance Claim Data Minimization**](https://github.com/ArnaudViegas21/REPO) | Service-oriented design for minimizing healthcare insurance claim data | _add_ |
+| [**TraceMirror**](https://github.com/ArnaudViegas21/REPO) | Research at VU Amsterdam: workload recording, scaling and replay for reproducible evaluation of software energy optimizations | Quantitative System Performance |
+| [**llm_client**](https://github.com/ArnaudViegas21/llm_client) | Multi-provider LLM client with routing, retries, circuit breakers, validated structured outputs and observability hooks | Python, Pydantic, OpenAI, Anthropic, Groq |
+| [**InvestWise**](https://github.com/ArnaudViegas21/InvestWise) | Financial-goal API with a decimal-based projection engine and scenario dashboards | FastAPI, PostgreSQL, SQLAlchemy, Next.js, TypeScript |
+| [**JobPilot**](https://github.com/ArnaudViegas21/JobPilot) | Full-stack job-application tracker with Playwright automation across three job platforms | Next.js, FastAPI, Python, Playwright |
+| [**Insurance Claim Data Minimization**]| Service-oriented design for minimizing healthcare insurance claim data | Service-Oriented Architecture |
 
 ---
 
-### 📊 GitHub stats
+### GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArnaudViegas21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
